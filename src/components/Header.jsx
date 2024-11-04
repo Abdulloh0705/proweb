@@ -15,9 +15,11 @@ const Header = () => {
           </div>
         </div>
         <div className="dobro">
-          <img src="Rectangle.png" alt="bu rasm" />
-          <h2 className="dobro_title">Добро пожаловать на мой сайт</h2>
+          <div className="dobro_work">
+            <h2 className="dobro_title">Добро пожаловать на мой сайт</h2>
           <a href="" className="tel_link">Позвонить</a>
+          </div>
+          
         </div>
       </header>
     </>
