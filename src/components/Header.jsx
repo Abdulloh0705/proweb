@@ -6,6 +6,10 @@ const Header = () => {
           <div className="container">
             <div className="menu__box">
               <a href="" className="menu__logo"><img src="PROWEB.png" alt="" /></a>
+              <button class="nav_menu">
+                        <img src="menu.png" alt="" />
+                    </button>
+              
               <ul className="menu__list">
                 <li className="menu__item"><a href="" className="menu__link">Обо мне</a></li>
                 <li className="menu__item"><a href="" className="menu__link">Мои работы</a></li>
